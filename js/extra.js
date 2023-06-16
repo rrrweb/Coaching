@@ -4,7 +4,7 @@ $(document).ready(function(e) {
     //mailchimp
     $('#mailchimp-subscription-form-footer').ajaxChimp({
       callback: mailChimpCallBack,
-      url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
+      url: 'rrrweb3@gmail.com'
     });
 
     function mailChimpCallBack(resp) {
